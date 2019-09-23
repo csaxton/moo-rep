@@ -1,6 +1,6 @@
 {
   "name": "@moorepo/services",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "services for the moo",
   "keywords": [
     "services"
