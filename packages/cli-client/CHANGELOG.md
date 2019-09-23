@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/csaxton/moo-rep/compare/@moorepo/cli-client@0.1.0...@moorepo/cli-client@0.2.0) (2019-09-23)
+
+
+### Features
+
+* **cli-client:** add the 'eat biscuits' command ([#12](https://github.com/csaxton/moo-rep/issues/12)) ([ebb629c](https://github.com/csaxton/moo-rep/commit/ebb629c))
+
+
+
+
+
 # 0.1.0 (2019-09-23)
 
 

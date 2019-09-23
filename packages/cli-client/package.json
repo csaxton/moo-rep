@@ -1,6 +1,6 @@
 {
   "name": "@moorepo/cli-client",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "> TODO: description",
   "author": "Craig Saxton <ss639901@hotmail.com>",
   "homepage": "https://github.com/csaxton/moo-rep#readme",
@@ -21,9 +21,12 @@
     "url": "git+https://github.com/csaxton/moo-rep.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "commit": "git-cz"
   },
   "bugs": {
     "url": "https://github.com/csaxton/moo-rep/issues"
+  },
+  "devDependencies": {
+    "commitizen": "^4.0.3"
   }
 }
