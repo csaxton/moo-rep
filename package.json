@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "bump": "lerna version --conventional-commits"
+  },
   "useWorkspaces": true,
   "workspaces": [
     "packages/*"
