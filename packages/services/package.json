@@ -24,9 +24,12 @@
     "url": "git+https://github.com/csaxton/moo-rep.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "commit": "git-cz"
   },
   "bugs": {
     "url": "https://github.com/csaxton/moo-rep/issues"
+  },
+  "devDependencies": {
+    "commitizen": "^4.0.3"
   }
 }
